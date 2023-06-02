@@ -396,7 +396,6 @@
   function stringSearch (li, searchString, method, normalize) {
     var stringTypes = [
           'display',
-          'subtext',
           'tokens'
         ],
         searchSuccess = false;
